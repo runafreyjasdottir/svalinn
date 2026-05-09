@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: svalinn
+Version: 0.1.0
+Summary: Shield before the sun — LLM context pruning & summarization
+License: MIT
+Requires-Python: >=3.10

@@ -1,0 +1,13 @@
+[project]
+name = "svalinn"
+version = "0.1.0"
+description = "Shield before the sun — LLM context pruning & summarization"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

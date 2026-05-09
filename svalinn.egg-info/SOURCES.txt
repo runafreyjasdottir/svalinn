@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+svalinn/__init__.py
+svalinn/pruner.py
+svalinn.egg-info/PKG-INFO
+svalinn.egg-info/SOURCES.txt
+svalinn.egg-info/dependency_links.txt
+svalinn.egg-info/top_level.txt
+tests/test_pruner.py
